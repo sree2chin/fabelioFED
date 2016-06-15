@@ -46,20 +46,32 @@ body {
     /* padding-left: 85px; */
     font-weight: 800;
     color: darkslateblue;
-    margin-top: 2px;
-    left: 5%;
+    margin-top: 5px;
+    left: 3%;
     font-size: 30px;
 }
 
 .navLinksContainer {
   /*padding-top: 22px*/
+  margin: 0px;
 }
 
 .navLink {
   font-size: 12px;
   font-weight: 600;
-  padding: 5px;
+  /*padding: 5px;*/
   color: #00264d;
+}
+
+.navLink a{
+  font-size: 12px !important;
+  font-weight: 600 !important;
+  /*padding: 5px;*/
+  color: #00264d !important;
+}
+
+.icon-bar {
+   background: #eee !important;
 }
 
 .imageContentContainer {
@@ -131,4 +143,13 @@ body {
 
 .imageContentInnerContainer {
   padding-top: 100px;
+}
+
+.navbar-inverse {
+  background: white;
+  border-color: white;
+}
+
+.noPadding {
+  padding: 0px;
 }
