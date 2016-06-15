@@ -2,6 +2,7 @@ body {
   color: #00264d;
   font-weight: 400;
   font-size: 13px;
+  overflow-x: hidden;
 }
 .noMargin {
 	margin: 0px;
