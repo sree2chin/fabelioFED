@@ -47,8 +47,8 @@ body {
     font-weight: 800;
     color: darkslateblue;
     margin-top: 2px;
-    left: 120px;
-    font-size: 36px;
+    left: 5%;
+    font-size: 30px;
 }
 
 .navLinksContainer {
@@ -106,8 +106,13 @@ body {
     min-height: 215px !important;
 }
 
+.secondaryImageContainer {
+  margin: 5px;
+}
+
 .thirdImage {
    min-height: 100px;
+   margin: 5px;
 }
 
 .fab-button {
