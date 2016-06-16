@@ -1,5 +1,5 @@
 body {
-  color: #00264d;
+  color: #003333;
   font-weight: 400;
   font-size: 13px;
   overflow-x: hidden;
@@ -61,7 +61,7 @@ body {
   font-size: 12px;
   font-weight: 600;
   /*padding: 5px;*/
-  color: #00264d;
+  color: #003333;
 }
 
 .navLink a{
@@ -95,7 +95,7 @@ body {
 }
 
 .textMainColor {
-   color: #00264d;
+   color: #003333;
 }
 
 .centerAligned {
