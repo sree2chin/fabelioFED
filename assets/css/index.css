@@ -134,6 +134,7 @@ body {
     border-color: #00cc99;
     padding: 10px;
     border-radius: 0;
+    margin-top: 1%;
 }
 
 .fab-icon-style {
@@ -154,4 +155,18 @@ body {
 
 .noPadding {
   padding: 0px;
+}
+
+.marginBottom {
+    margin-bottom: 50px;
+}
+
+@media only screen and (max-width: 700px) {
+    .fab-button {
+        margin-top: -30px;
+    }
+}
+
+.navbar .nav {
+  width: 100%;
 }
